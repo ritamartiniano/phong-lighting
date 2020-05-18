@@ -1,0 +1,9 @@
+﻿  Application.cpp
+c:\users\rita martiniano\desktop\lighting\lighting\src\application.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rita martiniano\desktop\lighting\lighting\src\application.cpp(261): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rita martiniano\desktop\lighting\lighting\src\application.cpp(262): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rita martiniano\desktop\lighting\lighting\src\application.cpp(266): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rita martiniano\desktop\lighting\lighting\src\application.cpp(267): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rita martiniano\desktop\lighting\lighting\src\application.cpp(269): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rita martiniano\desktop\lighting\lighting\src\application.cpp(270): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> C:\Users\Rita Martiniano\Desktop\Lighting\Debug\Lighting.exe
